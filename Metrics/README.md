@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d36a249ce699fc3619020a821ba970d2263c4d3cf9d4352aa793bd6ba61efb5
-size 8382
-=======
 # Metrics
 The objective here is to run the YOLO object detector on a large set of images and obtain a folder with the detections for each image on a specific format. The detections consist on information about the bounding box, class and probability for each object on each image. The format will be the one on the next image:
 
