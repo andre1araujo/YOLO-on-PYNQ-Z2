@@ -3,6 +3,7 @@ This folder contains information relative to the DPU creation on Vivado and the 
 
 ## Vivado files
 The **pynqz2_dpu** folder refers to the Vivado project files. This was the result of the implementation of the DPU TRD 3.0 and the most important part is the project file ***pynqz2_dpu.xsa*** that will be used on the Petalinux project as a base.
+
 **NOTE:** As the project folder was too big for the repository, you can now access it using this [google drive link](https://drive.google.com/drive/folders/1Tga_d2qfZRlQrvJvwPAHon4qpM60h9UP?usp=sharing).
 
 ## Vivado Project
