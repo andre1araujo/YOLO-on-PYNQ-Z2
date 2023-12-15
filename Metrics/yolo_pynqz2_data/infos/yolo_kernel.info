@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:991d987190d5b8d214f0a3280c98923757aa74327c281f2e72747e7f2f81ee0f
+size 1033
+=======
+
+DNNC Kernel topology "yolo_kernel_graph.jpg" for network "yolo"
+DNNC kernel list info for network "yolo"
+                               Kernel ID : Name
+                                       0 : yolo
+
+                             Kernel Name : yolo
+--------------------------------------------------------------------------------
+                             Kernel Type : DPUKernel
+                               Code Size : 1.74MB
+                              Param Size : 59.05MB
+                           Workload MACs : 65864.08MOPS
+                         IO Memory Space : 8.43MB
+                              Mean Value : 0, 0, 0, 
+                              Node Count : 77
+                            Tensor Count : 78
+                    Input Node(s)(H*W*C)
+                 conv2d_1_convolution(0) : 416*416*3
+                   Output Node(s)(H*W*C)
+                conv2d_59_convolution(0) : 13*13*255
+                conv2d_67_convolution(0) : 26*26*255
+                conv2d_75_convolution(0) : 52*52*255
+
+
+>>>>>>> origin/main
