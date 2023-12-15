@@ -122,4 +122,4 @@ In the end, the interface should look like this:
 ![enter image description here](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_13.png?raw=true)
 
 Now you just click on **RUN** and wait a minute until the metrics are obtained. At the end a new window will pop up, and you should copy the contents to a text file, so you don't lose them!
->>>>>>> origin/main
+
