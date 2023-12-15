@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:77eec591a78e9e8f17549ef8a9ad02a5853b3fb0b491d2e8ea27f3ef3deccdb8
-size 1921
-=======
 ## Compilation
 This part is very simple, and basically we let the program convert the resulting quantized YOLO model to a file for the DPU. A love letter if you will.
 For that, we need to execute the compilation script called ***compile.sh***.  It's worth mentioning that the program needs a file describing the DPU, so it generates the file based on the DPU architecture. That file I already included on the folder so no need to worry. But, if you are a masochist, you can create it as described on the tutorial.
@@ -26,4 +21,4 @@ After creating the folders, we want to move the contents of the compile folder t
  - yolo_kernel_graph.jpg -> info folder
 
 The code block above does exactly that but you can also do it manually.
->>>>>>> origin/main
+

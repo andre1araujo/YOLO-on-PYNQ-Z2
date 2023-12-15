@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:40e91c6e022b94b716ab42667ee4b03a8422ff1099b3f12aa1f871c07a56e6ab
-size 2834
-=======
 ## Model conversion
 Firstly we need to convert the YOLO model from Darknet to Tensorflow because DNNDK v3.1 doesn't support Darknet. On your Ubuntu Operating System, you should open the model_conversion folder from the project root:
 
@@ -33,4 +28,4 @@ With the YOLO model in Keras, is now time to convert it to Tensorflow. It is ver
 The result will be a file with the **".pb" extension**. This is our YOLOv3 model now in Tensorflow format. The next step is to quantize this model so let's **copy this file to the quantization folder** using this command or doing it manually.
 
     cp /model_data/yolo.pb /home/<user>/Desktop/YOLO-on-PYNQ-Z2/DNNDK/quantization
->>>>>>> origin/main
+

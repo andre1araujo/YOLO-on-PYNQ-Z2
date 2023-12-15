@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebe9bc118543583becb8fb6177b0644077a0202fe0d8dd9efb0542856891b1e0
-size 2885
-=======
 ## Quantization
 Now it's time for the model quantization. I have created a quantization script with everything set according to the necessary specifications. For more details you already know... visit the gitbook tutorial...
 
@@ -31,4 +26,4 @@ The process might take **12 hours** because the script only tells the program to
 After the quantization is finished, there will be a ***"quantize_results"*** folder and there will be two ".pb" files. That extension refers to models in Tensorflow, and we will only need the ***deploy_model.pb*** so you should copy it to the compilation folder to use on the next part.
 
     cp /quantize_results/deploy_model.pb /home/<user>/Desktop/YOLO-on-PYNQ-Z2/DNNDK/compilation
->>>>>>> origin/main
+
