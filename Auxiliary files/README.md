@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:139bb95b783ab6b50790fd4a65670b27593f9f6db3c0ba77500e2510d10f41c2
-size 2858
-=======
 # Auxiliary Files
 This folder contains some resulting files in case you skipped any of the steps. The organization is based on the name of the folders, so you might have noticed that the DPU implementation is not included here. That's because that folder already contains all the necessary files in case you skip that part. The rest of the chapters are described here:
 
@@ -28,4 +23,4 @@ The ***yolo_pynqz2*** folder is completed as it should be so it's here in case y
 Here there are 2 folders and one executable file. The folder **labels_yolo** refers to the detections for the YOLOv3 object detector. It contains 5000 text files with annotations relative to the COCO validation dataset.
 The **tiny_yolo_pynqz2_data** refers to the set of files necessary to run the program that generates the annotations for the COCO validation dataset. This folder is added on the PYNQ-Z2 environment just like the yolo_pynqz2_data but in this case it has the Tiny YOLO and not the YOLOv3.
 Finally, the **yolo** executable file is there in case the compilation process fails for some reason. You can include it directly on the yolo_pynqz2_data folder.
->>>>>>> origin/main
+
