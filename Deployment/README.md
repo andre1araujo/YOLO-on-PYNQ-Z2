@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d5ddad0aceb65c7eff752e48267134286462b86626381a2fb559a007bd3edbb
-size 4399
-=======
 # Deployment
 This chapter is about the deployment of the YOLOv3 object detector on the PYNQ-Z2. This folder contains files related to YOLOv3 but you can find Tiny YOLO files on the Auxiliary files of the repository. We will focus on the yolo_pynqz2 folder, and you can later repeat the same process for the Tiny YOLO if you desire. 
 
@@ -49,4 +44,3 @@ After the compilation is complete you will see an executable file called "yolo_i
 The result should be a window with the image with the detections. The program might crash the window, but you should be able to restart it with the same command. After this you can test any image you want.
 **Have fun! :)**
 
->>>>>>> origin/main
