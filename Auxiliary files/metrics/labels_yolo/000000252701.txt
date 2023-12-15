@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:193958fc2422a7592a962bb91027a76930bcdf3a6da44efb2ff788bc4a6b58aa
+size 66
+=======
+0 1.00 170 28 138 228
+0 0.97 296 27 74 54
+37 0.99 141 197 178 108
+>>>>>>> origin/main
