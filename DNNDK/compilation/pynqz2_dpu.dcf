@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:a772258d20028425d03b84a78373ceefd8899ace64a2ec5bcdecccc88e102b43
+size 665
+=======
+”(À0@8@HPX €€ €"/
+((0"(:*02:*»
+¸Number of DPU Cores:1;Arch of DPU:B1152;RAM Usage:Low;Channel Augmentation:Enabled;DepthWiseConv:Enabled;AveragePool:Enabled;ReLU Type:ReLU + LeakyReLU + ReLU6;Number of SFM cores:0;S-AXI Clock Mode:Independent;dpu_2x Clock Gating:Disabled;DSP48 Maximal Cascade Length:1;DSP48 Usage:High;Ultra-RAM Use per DPU:0;Enable timestamp auto-update:Enabled;Target Version:1.4.0;AXI Protocol:AXI3;S-AXI Data Width:32;M-AXI GP Data Width:32;M-AXI HP Data Width (DPU):64;M-AXI HP Data Width (SFM):128;M-AXI ID Width:2;DSP Slice Count:212;Ultra-RAM Count:0.0;Block-RAM Count:123.0
+>>>>>>> origin/main
