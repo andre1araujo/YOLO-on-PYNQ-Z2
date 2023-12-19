@@ -53,6 +53,7 @@ It's simple, we **design the DPU** with the architecture that fits the PYNQ-Z2 l
 
 ## Help
 If you have any doubts or suggestions, express them on the [issues tab](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/issues). I will try to answer everything as soon as possible.
+
 You can also contact me by email at: a21185@alunos.ipca.pt
 
 ## Acknowledgements
@@ -60,7 +61,6 @@ This project was made possible with the help of my **professor adviser**, my **c
 First, I want to thank **Wu-Tianze** for the inspiration he gave me with his project. All of this wouldn't be possible without his work guidelines and his help. Thanks to **Jin-Chen** for his work on Aiotlab which was really helpful on this project, particularly the first part. Thanks to the **community** for all the information on the forums and all that shared curiosity.
 Finally, I want to ****Thank you** for visiting this project!** 
 
-> If you find my work helpful, consider giving feedback on the Gitbook tutorial or give this project a nice star ;)
 
 Wu-Tianze's work: https://github.com/wutianze/dnndk-pynqz2
 
@@ -68,12 +68,17 @@ Jin-chen's work: http://www.aiotlab.org/teaching/fpga.html
 
 PYNQ forum: https://discuss.pynq.io/
 
+---
 
+> **If you find my work helpfull in any way consider these actions:**
+> * Give the project a nice star :star:
+> * Give some feedback on the GitBook tutorial :smiley:
+> * Contact me personaly :mailbox_with_mail:
 
 
 ---
 **Work to be done until product is finished:**
-- [ ] Write chapter regarding the DPU 3.0 development on Vivado;
+- [ ] ~~Write chapter regarding the DPU 3.0 development on Vivado;~~
 - [X] Write metrics chapter (if not **lazy**);
 - [X] Create README files for each folder on the repository, introducing everything and making a compressed tutorial;
 - [X] Update the repository to match the needs of someone willing to follow the whole process;
