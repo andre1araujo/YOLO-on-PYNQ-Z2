@@ -68,5 +68,6 @@ Finally, with everything ready, you can execute these commands to make the real-
 In the end you should have a real-time object detector with some miserable 0,5 FPS, but you can improve it by using a more restricted Network. What I mean is use the YOLO Network but with less than the 80 COCO classes. Make it more specific to your application.
 
 Apart from that, you should be set to explore the program and learn how it works.
+
 **Have fun! :)**
 
