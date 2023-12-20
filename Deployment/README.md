@@ -42,5 +42,31 @@ After the compilation is complete you will see an executable file called "yolo_i
     ./yolo_image dog.jpg
 
 The result should be a window with the image with the detections. The program might crash the window, but you should be able to restart it with the same command. After this you can test any image you want.
+
+## Execute YOLO in real-time
+
+There is also the possibility to run the yolo inference on a set of images captured by a USB webcam. In other words, you can do object detection in real-time using the YOLO algorithm and the PYNQ-Z2. 
+
+The process is very similar to the inference on a single image but this time, you will first need to plug a USB webcam to the board as described on the image:
+
+![enter image description here](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_20.png?raw=true)
+
+Then, we will need to change the Makefile so, this time, it compiles the yolo_video.cpp program. This program has nothing more than the camera activation and an endless loop executing the inference on each image received by the camera.
+
+The changes are according to this scheme:
+
+![enter image description here](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_21.png?raw=true)
+
+
+Finally, with everything ready, you can execute these commands to make the real-time object detector work. I should note that a window will display on your computer with the images obtained from the camera and the detections. You can close that window by pressing "q". Also, the program will be more prone to crash than the inference on an image, as this one is a lot more demanding for the CPU and memory. If it crashes, you just need to restart it by executing again the last command. Remember to be patient!
+
+    cd ~
+    cd yolo_pynqz2
+    make
+    ./yolo
+
+In the end you should have a real-time object detector with some miserable 0,5 FPS, but you can improve it by using a more restricted Network. What I mean is use the YOLO Network but with less than the 80 COCO classes. Make it more specific to your application.
+
+Apart from that, you should be set to explore the program and learn how it works.
 **Have fun! :)**
 
