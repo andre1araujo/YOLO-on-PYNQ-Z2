@@ -68,7 +68,7 @@ Jin-chen's work: http://www.aiotlab.org/teaching/fpga.html
 
 PYNQ forum: https://discuss.pynq.io/
 
----
+## Feedback
 
 > **If you find my work helpfull in any way consider these actions:**
 > * Give the project a nice star :star:
