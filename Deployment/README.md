@@ -1,5 +1,5 @@
 # Deployment
-This chapter is about the deployment of the YOLOv3 object detector on the PYNQ-Z2. This folder contains files related to YOLOv3 but you can find Tiny YOLO files on the Auxiliary files of the repository. We will focus on the yolo_pynqz2 folder, and you can later repeat the same process for the Tiny YOLO if you desire. 
+This chapter is about the deployment of the YOLOv3 object detector on the PYNQ-Z2. This folder contains files related to YOLOv3 and Tiny YOLO but, we will focus on the yolo_pynqz2 folder, and you can later repeat the same process for the Tiny YOLO if you desire. 
 
 First, you should set up the board inserting the Micro SD card with the right image on the board and plug all the necessary cables. For instance, I recommend you use a power regulator to feed the board as the YOLO algorithm is quite demanding on power. You should also establish USB and Ethernet connections.
 
