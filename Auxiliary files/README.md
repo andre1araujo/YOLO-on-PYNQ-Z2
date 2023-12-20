@@ -19,8 +19,9 @@ In case you couldn't execute the compilation process, there is folder **compile*
 There are two different folders: one relative to the **YOLOv3 model** and other to the **Tiny YOLO model**. Once again, we focus on the YOLO model, but I included the other one in case you want to test it.
 The ***yolo_pynqz2*** folder is completed as it should be so it's here in case you just want to skip the DNNDK process.
 
+Each folder contains executables relative to the **inference on a single image** but also the **real-time object detector using a USB webcam**. You can learn how to change the Makefile to compile either of those programs on the [Deployment chapter](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/tree/main/Deployment#execute-yolo-in-real-time), in case you want to have fun with the code.
+
 ## Metrics
 Here there are 2 folders and one executable file. The folder **labels_yolo** refers to the detections for the YOLOv3 object detector. It contains 5000 text files with annotations relative to the COCO validation dataset.
 The **tiny_yolo_pynqz2_data** refers to the set of files necessary to run the program that generates the annotations for the COCO validation dataset. This folder is added on the PYNQ-Z2 environment just like the yolo_pynqz2_data but in this case it has the Tiny YOLO and not the YOLOv3.
 Finally, the **yolo** executable file is there in case the compilation process fails for some reason. You can include it directly on the yolo_pynqz2_data folder.
-
