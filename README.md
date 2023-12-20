@@ -73,7 +73,7 @@ PYNQ forum: https://discuss.pynq.io/
 > **If you find my work helpfull in any way consider these actions:**
 > * Give the project a nice star :star:
 > * Give some feedback on the GitBook tutorial :smiley:
-> * Contact me personaly :mailbox_with_mail:
+> * Contact me via e-mai :mailbox_with_mail:
 
 
 ---
@@ -86,4 +86,4 @@ PYNQ forum: https://discuss.pynq.io/
 - [X] Correct my grammar mistakes (probably);
 - [X] Create and add some interesting images, so the user's eyes get happy and fulfilled;
 - [X] Make a fancy introductory README file and **don't forget to thank everyone at the end!**;
-- [X] Add email contact; 
+- [X] Add email contact; s
