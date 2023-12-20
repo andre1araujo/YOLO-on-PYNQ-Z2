@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:72535d4e607d976268d055bee754b46109f858b709499505cabab0a18ecead7f
-size 8817
-=======
 /*
 -- (c) Copyright 2019 Xilinx, Inc. All rights reserved.
 --
@@ -299,4 +294,3 @@ int main(void) {
 
     return 0;
 }
->>>>>>> origin/main

@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:320a84d99b811f43bffe09ae71eb95170a5e4f956f88a58372abcbd55facb3c4
-size 13471
-=======
 /*
  * Copyright (C) 2019 Xilinx, Inc.
  *
@@ -406,4 +401,3 @@ int dpu_resize(run_resize_t *para)
 	return ret > 0 ? 0 : (ret == 0 ? -ETIMEDOUT : ret);
 }
 #endif
->>>>>>> origin/main

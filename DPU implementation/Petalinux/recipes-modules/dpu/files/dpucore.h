@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d2fb7282b70e19b9b2ea872b14b3f5b515dee3fb5c92a715c615635177cef36
-size 3994
-=======
 /*
  * Copyright (C) 2019 Xilinx, Inc.
  *
@@ -163,4 +158,3 @@ struct device_node *dpu_compatible_node(const char *compat);
 //////////////////////////////////////////////////
 #endif /*_DPU_H_*/
 
->>>>>>> origin/main

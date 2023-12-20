@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:564e9d3c20842fab3275ebca43f194115a40d1439756fb7459d017e4f1a4a499
-size 3133
-=======
 ## (c) Copyright 2019 Xilinx, Inc. All rights reserved.
 ##
 ## This file contains confidential and proprietary information
@@ -91,4 +86,3 @@ clean:
 
 $(BUILD) :
 	-mkdir -p $@
->>>>>>> origin/main

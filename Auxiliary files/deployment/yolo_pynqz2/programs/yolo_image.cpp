@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:79db25eaca004bd007f8645dfd770833c160fcb1d819571d879e71af57908d73
-size 18849
-=======
 #include <algorithm>
 #include <vector>
 #include <atomic>
@@ -494,4 +489,3 @@ int main(const int argc, const char** argv) {
         dpuClose();
         return 0;
 }
->>>>>>> origin/main

@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:273db8d5291a7c677d66c24a33adb00fcf4b8516dcef33182eb0db47c8970ddb
-size 3874
-=======
 /*
  * Copyright (C) 2019 Xilinx, Inc.
  *
@@ -115,4 +110,3 @@ int dpu_resize(run_resize_t *presize);
 irqreturn_t dpu_ext_isr(int irq, void *data);
 //////////////////////////////////////////////////
 #endif
->>>>>>> origin/main

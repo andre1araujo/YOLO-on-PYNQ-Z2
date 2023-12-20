@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:839f125f750a81d96f7850f7cac3a19a7542238a7cb80c9d13b6f3fe70a2d121
-size 951
-=======
 ### 
 # @Author: Sauron Wu
  # @GitHub: wutianze
@@ -43,4 +38,3 @@ echo "#####################################"
 echo "QUANTIZATION COMPLETED"
 echo "#####################################"
 
->>>>>>> origin/main

@@ -26,4 +26,3 @@ The process might take **12 hours** because the script only tells the program to
 After the quantization is finished, there will be a ***"quantize_results"*** folder and there will be two ".pb" files. That extension refers to models in Tensorflow, and we will only need the ***deploy_model.pb*** so you should copy it to the compilation folder to use on the next part.
 
     cp /quantize_results/deploy_model.pb /home/<user>/Desktop/YOLO-on-PYNQ-Z2/DNNDK/compilation
-

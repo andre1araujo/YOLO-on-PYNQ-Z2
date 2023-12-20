@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f623a5bbc98545f8f81b521364aa0d462f73fd6d410353f798316a171606e16
-size 1217
-=======
 '''
 @Author: your name
 @Date: 2019-10-29 15:33:55
@@ -47,4 +42,3 @@ def calib_input(iter):
       image_data /= 256.
       images.append(image_data)
   return {CONV_INPUT: images}
->>>>>>> origin/main

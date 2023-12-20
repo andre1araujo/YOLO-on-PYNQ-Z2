@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:30a1b7bc57f8ac361d63f6622ac86947bd3e9992a020cff5888ed6db50128f69
-size 611
-=======
 SUMMARY = "Recipe for  build an external dpu Linux kernel module"
 SECTION = "PETALINUX/modules"
 LICENSE = "GPLv2"
@@ -25,4 +20,3 @@ S = "${WORKDIR}"
 
 # The inherit of module.bbclass will automatically name module packages with
 # "kernel-module-" prefix as required by the oe-core build environment.
->>>>>>> origin/main

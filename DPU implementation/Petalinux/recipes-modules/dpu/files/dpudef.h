@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1270f162be0a82b9695a166a062f92157c491286e7ca9bcb2e03e9efc0f0340
-size 16559
-=======
 /*
  * Copyright (C) 2019 Xilinx, Inc.
  *
@@ -552,4 +547,3 @@ struct dpu_mem_blk_t {
 	unsigned long addr_phy; /* the start pyhsical address of allocated DPU memory */
 };
 #endif
->>>>>>> origin/main

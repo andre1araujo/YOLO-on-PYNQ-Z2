@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa0de7b12acffba6eb25eb94cbee18ab755a025c96f78b232b8de27e12ec48c3
-size 8044
-=======
 #!/usr/bin/env python
 """
 Copyright (c) 2019, by the Authors: Amir H. Abdi
@@ -184,4 +179,3 @@ def main(args):
 
 if __name__ == "__main__":
     app.run(main)
->>>>>>> origin/main

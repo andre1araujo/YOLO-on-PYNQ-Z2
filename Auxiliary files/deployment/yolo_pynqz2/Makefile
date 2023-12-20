@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:f024f5fbdc0d717108291129f3c25ffcb3cb578281a240d2a90fe5ffc8ec99b6
-size 1132
-=======
 YOLO = yolo_image
 
 CXX       :=   g++
@@ -50,4 +45,3 @@ $(YOLO): $(OBJ_FILES)
 
 clean:
 	rm -f $(OBJ_DIR)/*.o $(YOLO)
->>>>>>> origin/main

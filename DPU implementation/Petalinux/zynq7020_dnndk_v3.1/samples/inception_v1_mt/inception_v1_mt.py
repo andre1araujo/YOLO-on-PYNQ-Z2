@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:7ec51fd502af3a8c5596d3fab4af31a24f089a1e121c81eb1857c62865e46de8
-size 5193
-=======
 """ (c) Copyright 2019 Xilinx, Inc. All rights reserved.
 --
 -- This file contains confidential and proprietary information
@@ -165,4 +160,3 @@ if __name__ == "__main__":
         print("please input thread number.")
     else :
         main(sys.argv)
->>>>>>> origin/main

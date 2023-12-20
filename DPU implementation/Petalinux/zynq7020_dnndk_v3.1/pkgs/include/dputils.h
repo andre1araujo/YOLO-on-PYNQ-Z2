@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed000376f1986c209f9764720fef050529a8f15cf0e0d2774b8376eeed67dfbf
-size 2906
-=======
 /*
 -- (c) Copyright 2019 Xilinx, Inc. All rights reserved.
 --
@@ -72,4 +67,3 @@ int dpuSetInputImageWithScale(DPUTask *task, const char *nodeName,
 int dpuSetInputImage2(DPUTask *task, const char *nodeName, const cv::Mat &image, int idx = 0);
 
 #endif
->>>>>>> origin/main

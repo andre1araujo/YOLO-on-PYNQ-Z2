@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:eae86dfd5b061ed6a1fcbb890e946cc7c2887fc4dc0b2b44da85b65493015c6c
-size 2649
-=======
 import re
 import subprocess
 import time
@@ -73,4 +68,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> origin/main

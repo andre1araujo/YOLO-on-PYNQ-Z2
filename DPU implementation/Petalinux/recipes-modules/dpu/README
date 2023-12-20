@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:e992ed438a83502d1111939e99d42068dc8f3e161fedd951efe92e265029a852
-size 2717
-=======
 PetaLinux User Module Template
 ===================================
 
@@ -61,4 +56,3 @@ For more information about the the DTS file, please refer to this document in th
 To add extra source code files (for example, to split a large module into 
 multiple source files), add the relevant .o files to the list in the local 
 Makefile where indicated.  
->>>>>>> origin/main

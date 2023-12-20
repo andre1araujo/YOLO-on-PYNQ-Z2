@@ -28,4 +28,3 @@ With the YOLO model in Keras, is now time to convert it to Tensorflow. It is ver
 The result will be a file with the **".pb" extension**. This is our YOLOv3 model now in Tensorflow format. The next step is to quantize this model so let's **copy this file to the quantization folder** using this command or doing it manually.
 
     cp /model_data/yolo.pb /home/<user>/Desktop/YOLO-on-PYNQ-Z2/DNNDK/quantization
-

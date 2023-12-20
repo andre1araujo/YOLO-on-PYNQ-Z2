@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:78cfb89404205cda5f718acad6c95111f65d24ebf57eca9eebd65a62a43053e7
-size 49769
-=======
 /*
  * Copyright (C) 2019 Xilinx, Inc.
  *
@@ -1672,4 +1667,3 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Xilinx");
 module_init(dpu_init);
 module_exit(dpu_exit);
->>>>>>> origin/main

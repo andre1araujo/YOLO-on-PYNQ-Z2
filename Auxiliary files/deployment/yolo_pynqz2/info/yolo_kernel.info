@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:991d987190d5b8d214f0a3280c98923757aa74327c281f2e72747e7f2f81ee0f
-size 1033
-=======
 
 DNNC Kernel topology "yolo_kernel_graph.jpg" for network "yolo"
 DNNC kernel list info for network "yolo"
@@ -27,4 +22,3 @@ DNNC kernel list info for network "yolo"
                 conv2d_75_convolution(0) : 52*52*255
 
 
->>>>>>> origin/main

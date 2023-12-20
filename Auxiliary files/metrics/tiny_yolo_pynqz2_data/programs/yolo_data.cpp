@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:a41f7c7784013d0390c8d1f9658022baf7b37b7226ce20de48251f59e1be5084
-size 17005
-=======
 #include <chrono>
 #include <algorithm>
 #include <vector>
@@ -482,4 +477,3 @@ int main()
 }
 
 
->>>>>>> origin/main

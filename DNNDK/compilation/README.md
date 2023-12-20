@@ -21,4 +21,3 @@ After creating the folders, we want to move the contents of the compile folder t
  - yolo_kernel_graph.jpg -> info folder
 
 The code block above does exactly that but you can also do it manually.
-

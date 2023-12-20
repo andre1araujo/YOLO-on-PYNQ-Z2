@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c532a6bd09fd854fe0f3080029641f442bcbdcc948c2dc937045e2230c5daf9
-size 2312
-=======
 /*
 -- (c) Copyright 2019 Xilinx, Inc. All rights reserved.
 --
@@ -58,4 +53,3 @@ size 2312
 #include <dnndk/dputils.h>
 
 #endif
->>>>>>> origin/main

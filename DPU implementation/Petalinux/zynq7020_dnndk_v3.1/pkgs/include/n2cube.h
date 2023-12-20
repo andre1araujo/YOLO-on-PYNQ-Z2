@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:52417bc83d0d79bf0b52ac160b338c597ecc900ea195ca4355b6323fa42c3dcd
-size 9364
-=======
 /*
 -- (c) Copyright 2019 Xilinx, Inc. All rights reserved.
 --
@@ -242,4 +237,3 @@ int dpuGetTensorChannel(DPUTensor* tensor);
 int dpuRunSoftmax(int8_t *input, float *output, int numClasses, int batchSize, float scale);
 
 #endif
->>>>>>> origin/main

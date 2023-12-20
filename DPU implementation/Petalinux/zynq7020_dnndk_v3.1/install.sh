@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:326f2fe7961c6fde9a7dc1cbfb70cdca6e5b39296780f3a8479714a553414f7f
-size 5175
-=======
 #!/bin/bash
 
 echo "Begin to install Xilinx DNNDK ..."
@@ -160,4 +155,3 @@ if [ "$my_board_type" != "" ]; then
 fi
 
 exit 0
->>>>>>> origin/main

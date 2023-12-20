@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e6a7fc42260572990a822ec249f356d1c98a94808ea9af278b4a54069057a12
-size 10093
-=======
 #! /usr/bin/env python
 """
 Reads Darknet config and weights and creates Keras model with TF backend.
@@ -265,4 +260,3 @@ def _main(args):
 
 if __name__ == '__main__':
     _main(parser.parse_args())
->>>>>>> origin/main
