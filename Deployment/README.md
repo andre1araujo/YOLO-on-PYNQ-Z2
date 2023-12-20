@@ -49,14 +49,14 @@ There is also the possibility to run the yolo inference on a set of images captu
 
 The process is very similar to the inference on a single image but this time, you will first need to plug a USB webcam to the board as described on the image:
 
-![enter image description here](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_20.png?raw=true)
+<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_20.png?raw=true" alt="Image Description" width="400"/>
 
 Then, we will need to change the Makefile so, this time, it compiles the yolo_video.cpp program. This program has nothing more than the camera activation and an endless loop executing the inference on each image received by the camera.
 
 The changes are according to this scheme:
 
-![enter image description here](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_21.png?raw=true)
 
+<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_21.png?raw=true" alt="Image Description" width="400"/>
 
 Finally, with everything ready, you can execute these commands to make the real-time object detector work. I should note that a window will display on your computer with the images obtained from the camera and the detections. You can close that window by pressing "q". Also, the program will be more prone to crash than the inference on an image, as this one is a lot more demanding for the CPU and memory. If it crashes, you just need to restart it by executing again the last command. Remember to be patient!
 
