@@ -86,4 +86,4 @@ PYNQ forum: https://discuss.pynq.io/
 - [X] Correct my grammar mistakes (probably);
 - [X] Create and add some interesting images, so the user's eyes get happy and fulfilled;
 - [X] Make a fancy introductory README file and **don't forget to thank everyone at the end!**;
-- [X] Add email contact; 
+- [X] Add e-mail contact; 
