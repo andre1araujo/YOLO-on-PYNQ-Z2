@@ -29,21 +29,21 @@ Here is a little description of the topics:
 
  **1. DPU implementation** - Here we create a Hardware layout capable of processing various types of Neural Networks (including YOLO) called the DPU. The DPU is Xilinx's property (You can check the [DPU Product Guide](https://docs.xilinx.com/r/3.3-English/pg338-dpu/Customizing-and-Generating-the-Core-in-Zynq-7000-Devices)) and here we will adopt the best architecture for the PYNQ-Z2 limitations. Then we will create a SD card image with the DPU and other Software configurations.
 
-<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_3.png?raw=true" alt="Image Description" width="300"/>
+[<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_3.png?raw=true" alt="Image Description" width="300"/>](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/tree/main/DPU%20implementation)
 
 
  **2. DNNDK** - The YOLO model will be compressed and optimized to fit the PYNQ-Z2 board as the DPU has it's limitations and can't use the raw model. To do this we will use Xilinx tool DNNDK v3.1. This program will allow quantization of the model and also compilation, resulting on a file that can communicate with the DPU telling it to form the compressed YOLO Network.
 
-<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_4.png?raw=true" alt="Image Description" width="300"/>
+[<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_4.png?raw=true" alt="Image Description" width="300"/>](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/tree/main/DNNDK)
  
 
  **3. Deployment** - This is the part where we will set up the board in order to see the results. The files will be organized and compiled resulting on an executable file that is able to run YOLOv3 inference on a desired image.
 
-<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_5.png?raw=true" alt="Image Description" width="400"/>
+[<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_5.png?raw=true" alt="Image Description" width="400"/>](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/tree/main/Deployment)
 
 **4. Metrics** - You have the YOLOv3 model working on the PYNQ-Z2 and now you want to know the accuracy of the model. On this chapter we will go trough all the steps to do that evaluation so at the end you can see if the detections are accurate enough for your applications. 
 
-<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_16.png?raw=true" alt="Image Description" width="400"/>
+[<img src="https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_16.png?raw=true" alt="Image Description" width="400"/>](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/tree/main/Metrics)
 
 ## Development flow
 So, how do we tie everything down to make the YOLOv3 object detector work on the PYNQ-Z2? 
