@@ -1,5 +1,5 @@
 ﻿# :warning: Disclaimer
-> This repository is pretty much finished and with all the files necessary to develop de project but there will be some minor updates on the future. There is a [step-by-step tutorial on Gitbook](https://andre-araujo.gitbook.io/yolo-on-pynq-z2/) that you can read that explains the whole process.
+> This repository is pretty much finished and with all the files necessary to develop de project. There is a [step-by-step tutorial on Gitbook](https://andre-araujo.gitbook.io/yolo-on-pynq-z2/) that you can read that explains the whole process.
 
 
 ---
