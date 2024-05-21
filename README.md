@@ -1,5 +1,6 @@
 ﻿# :warning: Disclaimer
-> This repository is pretty much finished and with all the files necessary to develop de project. There is a [step-by-step tutorial on Gitbook](https://andre-araujo.gitbook.io/yolo-on-pynq-z2/) that you can read that explains the whole process.
+> This repository is followed by a [step-by-step tutorial on Gitbook](https://andre-araujo.gitbook.io/yolo-on-pynq-z2/) that you can read that explains the whole process. 
+> The explanations might contain information that is not 100% correct. I am still learning a lot and this project combines all the things I have learned during its development. Please be sure to notify me about any information you consider incorrect or misleading on the tutorial on GitBook or on the README files of the repository. Thank you!
 
 
 ---
@@ -87,3 +88,5 @@ PYNQ forum: https://discuss.pynq.io/
 - [X] Create and add some interesting images, so the user's eyes get happy and fulfilled;
 - [X] Make a fancy introductory README file and **don't forget to thank everyone at the end!**;
 - [X] Add e-mail contact; 
+
+
