@@ -115,6 +115,7 @@ What will be done now is the configuration of the OS packages. In other words, y
 Next is a list of packages you have to enable on this menu:
 -   modules -> dpu
 -   Filesystem Packages -> admin -> sudo, sudo-dev
+-   Filesystem Packages —> misc —> packagegroup-petalinux-self-hosted step
 -   Petalinux Package Groups → packagegroup-petalinux-python-modules, -dev
 -   Petalinux Package Groups → packagegroup-petalinux-x11, -dev
 -   Filesystem Packages -> console -> utils -> pkgconfig -> pkgconfig, pkgconfig dev

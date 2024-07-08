@@ -24,7 +24,7 @@ It's safe to say you should consult the [Model optimization and compilation](htt
     source activate decent
     cd Downloads/xilinx_dnndk_v3.1/host_x86/decent-tf/ubuntu18.04/
     pip install ./tensorflow-1.12.0-cp36-cp36m-linux_x86_64.whl
-    pip install numpy opencv-python==4.7.0.68 scikit-learn==0.24.2 scipy progressbar2 keras==2.2.4
+    pip install numpy opencv-python==4.6.0.66 scikit-learn==0.24.2 scipy progressbar2 keras==2.2.4
     cd ~
     cd Downloads/xilinx_dnndk_v3.1/host_x86
 Change "install.sh" file on line 4 with this: `support_board=(ZCU102 ZCU104 ZedBoard Ultra96 PynqZ2)`
