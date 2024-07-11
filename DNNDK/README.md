@@ -28,6 +28,7 @@ It's safe to say you should consult the [Model optimization and compilation](htt
     pip install pillow
     pip install 'h5py==2.10.0' --force-reinstall
     sudo apt install libgoogle-glog-dev
+    sudo apt-get install graphviz
     cd ~
     cd Downloads/xilinx_dnndk_v3.1/host_x86
 Change "install.sh" file on line 4 with this: `support_board=(ZCU102 ZCU104 ZedBoard Ultra96 PynqZ2)`
