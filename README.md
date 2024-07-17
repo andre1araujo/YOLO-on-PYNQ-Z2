@@ -62,6 +62,7 @@ This project was made possible with the help of my **professor adviser**, my **c
 First, I want to thank **Wu-Tianze** for the inspiration he gave me with his project. All of this wouldn't be possible without his work guidelines and his help. Thanks to **Jin-Chen** for his work on Aiotlab which was really helpful on this project, particularly the first part. Thanks to the **community** for all the information on the forums and all that shared curiosity.
 Finally, I want to ****Thank you** for visiting this project!** 
 
+Special thanks to [Ayan](https://github.com/MaRcOsss1) for the help on updating the tutorial so it is kept up to date!
 
 Wu-Tianze's work: https://github.com/wutianze/dnndk-pynqz2
 
