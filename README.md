@@ -18,7 +18,7 @@ In the end, the user should be able to obtain the detection (bounding boxes, cla
 
 ## Examples
 
-If you follow this tutorial you will end up with a YOLO detection algorithm capable of detecting 80 different types of objects. But, you can also make your own specialized object detector for fewer classes. Here you can see two exciting works: one from Mainul for face detection and the other from Vinil and Bigin for PCB defect detection:
+If you follow this tutorial you will end up with a YOLO detection algorithm capable of detecting 80 different types of objects. But, you can also make your own specialized object detector for fewer classes. Here you can see two exciting works: one from **Mainul** for **face detection** and the other from **Vinil** and **Bigin** for **PCB defect detection**:
 
 ![Sample detections](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/YOLO_samples.png)
 
