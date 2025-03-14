@@ -16,6 +16,13 @@ In the end, the user should be able to obtain the detection (bounding boxes, cla
 
 ![Sample image](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/Demo_image_11.png?raw=true)
 
+## Examples
+
+If you follow this tutorial you will end up with a YOLO detection algorithm capable of detecting 80 different types of objects. But, you can also make your own specialized object detector for less classes. Here you can see two exiting works: one from Mainul for face detection and the other from Vinil and Bigin for PCB defect detection:
+
+![Face detection](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/face_detection_sample.png)
+![PCB defect detection](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2/blob/main/images/pcb_defect_detection_sample_cut.png)
+
 
 ## Tutorial
 - If you want to **follow the whole development process** to implement the YOLOv3 on the board, I recommend you check out [my tutorial on gitbook](https://andre-araujo.gitbook.io/yolo-on-pynq-z2/)! It's pretty in depth, but you should be able to toss out any excessive information. In case you **miss any of the steps** the **Auxiliary files folder** contains the necessary files for each part of the project.
